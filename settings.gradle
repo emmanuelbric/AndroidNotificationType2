@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "NotificationChannel2App"
+=======
+rootProject.name = "NotificationChannel1App"
+>>>>>>> 7750c8198138e72c4f952ab43c6c7bad8bf39036
 include ':app'

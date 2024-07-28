@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace 'org.o7planning.notificationchannel2app'
     compileSdk 34
 
     defaultConfig {
         applicationId "org.o7planning.notificationchannel2app"
+=======
+    namespace 'org.o7planning.notificationchannel1app'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "org.o7planning.notificationchannel1app"
+>>>>>>> 7750c8198138e72c4f952ab43c6c7bad8bf39036
         minSdk 24
         targetSdk 34
         versionCode 1
